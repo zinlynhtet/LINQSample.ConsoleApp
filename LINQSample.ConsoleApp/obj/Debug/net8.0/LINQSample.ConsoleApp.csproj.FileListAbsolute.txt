@@ -1,0 +1,14 @@
+C:\Users\hlain\source\repos\LINQSample.ConsoleApp\LINQSample.ConsoleApp\bin\Debug\net8.0\LINQSample.ConsoleApp.exe
+C:\Users\hlain\source\repos\LINQSample.ConsoleApp\LINQSample.ConsoleApp\bin\Debug\net8.0\LINQSample.ConsoleApp.deps.json
+C:\Users\hlain\source\repos\LINQSample.ConsoleApp\LINQSample.ConsoleApp\bin\Debug\net8.0\LINQSample.ConsoleApp.runtimeconfig.json
+C:\Users\hlain\source\repos\LINQSample.ConsoleApp\LINQSample.ConsoleApp\bin\Debug\net8.0\LINQSample.ConsoleApp.dll
+C:\Users\hlain\source\repos\LINQSample.ConsoleApp\LINQSample.ConsoleApp\bin\Debug\net8.0\LINQSample.ConsoleApp.pdb
+C:\Users\hlain\source\repos\LINQSample.ConsoleApp\LINQSample.ConsoleApp\obj\Debug\net8.0\LINQSample.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlain\source\repos\LINQSample.ConsoleApp\LINQSample.ConsoleApp\obj\Debug\net8.0\LINQSample.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\hlain\source\repos\LINQSample.ConsoleApp\LINQSample.ConsoleApp\obj\Debug\net8.0\LINQSample.ConsoleApp.AssemblyInfo.cs
+C:\Users\hlain\source\repos\LINQSample.ConsoleApp\LINQSample.ConsoleApp\obj\Debug\net8.0\LINQSample.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\hlain\source\repos\LINQSample.ConsoleApp\LINQSample.ConsoleApp\obj\Debug\net8.0\LINQSample.ConsoleApp.dll
+C:\Users\hlain\source\repos\LINQSample.ConsoleApp\LINQSample.ConsoleApp\obj\Debug\net8.0\refint\LINQSample.ConsoleApp.dll
+C:\Users\hlain\source\repos\LINQSample.ConsoleApp\LINQSample.ConsoleApp\obj\Debug\net8.0\LINQSample.ConsoleApp.pdb
+C:\Users\hlain\source\repos\LINQSample.ConsoleApp\LINQSample.ConsoleApp\obj\Debug\net8.0\LINQSample.ConsoleApp.genruntimeconfig.cache
+C:\Users\hlain\source\repos\LINQSample.ConsoleApp\LINQSample.ConsoleApp\obj\Debug\net8.0\ref\LINQSample.ConsoleApp.dll
